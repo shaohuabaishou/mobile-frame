@@ -7,10 +7,12 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 node 版本：20.11.1
-npm install
-npm run dev
-npm run build
-npm run lint
+操作命令
+
+1. npm install
+2. npm run dev
+3. npm run build
+4. npm run lint
 
 vscode 客户端配置(代码规范检测，必须装)：
 
